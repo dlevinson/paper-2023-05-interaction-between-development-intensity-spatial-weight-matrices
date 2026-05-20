@@ -1,6 +1,6 @@
 # License Status: Interaction Between Development Intensity: Spatial Weight Matrices
 
-Generated: 2026-05-20 14:46:37 AEST
+Generated: 2026-05-20 15:23:47 AEST
 
 Recorded license/access note from the verified audit row: Public source datasets have their own terms; published paper is MDPI CC BY 4.0; local derived code/data release should use project license/provenance notes.
 
